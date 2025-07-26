@@ -8,13 +8,21 @@ This lab explores a classification task using Convolutional Neural Networks (CNN
 
 CSCN8010-Lab3/
 │
+
 ├── Data/ # Contains training and validation image datasets
+
 ├── fast_custom_cnn.h5 # Saved model (custom CNN)
+
 ├── best_vgg16.h5 # Saved model (VGG16)
+
 ├── CNN_vs_VGG16.ipynb # Jupyter Notebook with all code
+
 ├── .gitattributes # Git LFS tracking rules
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # You're here!
+
 
 
 ## ⚙️ Setup Instructions
