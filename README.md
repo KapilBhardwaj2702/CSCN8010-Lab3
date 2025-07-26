@@ -16,11 +16,6 @@ CSCN8010-Lab3/
 ├── requirements.txt # Python dependencies
 └── README.md # You're here!
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Setup Instructions
 
