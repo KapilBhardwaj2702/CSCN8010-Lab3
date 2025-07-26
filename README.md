@@ -21,24 +21,18 @@ CSCN8010-Lab3/
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/KapilBhardwaj2702/CSCN8010-Lab3.git
 cd CSCN8010-Lab3
+
 2. Install Python dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3. Install Git LFS (if not already)
-bash
-Copy
-Edit
 git lfs install
+
 4. Pull large files (model weights)
-bash
-Copy
-Edit
 git lfs pull
+
 🏗️ Models
 fast_custom_cnn.h5: Trained custom CNN architecture.
 
