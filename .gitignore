@@ -1,0 +1,41 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# Data folders
+Data/
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+
+# Model files (if not using Git LFS)
+*.h5
+*.ckpt
+*.pb
+
+# VSCode and other editor configs
+.vscode/
+.idea/
+
+# DVC cache
+.dvc/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
